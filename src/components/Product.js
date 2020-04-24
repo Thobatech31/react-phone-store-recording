@@ -82,6 +82,7 @@ const ProductWrapper = styled.div`
         .card-footer{
             background: rgba(247, 247, 247);
         }
+}
         .img-container{
             position: relative;
             overflow: hidden;
